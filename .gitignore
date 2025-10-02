@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+
+# Env files
+.env
+*.env
+
+# AWS credentials (falls du mal echte Keys nutzt)
+.aws/
+
+# OS-specific
+.DS_Store
+Thumbs.db
